@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+numpy
+python-dotenv
+pypdf
+beautifulsoup4
+lxml
+openai
